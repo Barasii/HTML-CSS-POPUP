@@ -48,14 +48,14 @@ ul {
     padding-left: 15px;
 }
 
-.navigation__item>a {
+.navigation__link {
     font-size: 13px;
     color: #000;
     text-decoration: none;
     cursor: pointer;
 }
 
-.navigation__item>a:hover {
+.navigation__link:hover {
     text-decoration: underline;
     opacity: 0.8;
 }
@@ -145,12 +145,12 @@ ul {
     outline: 1px solid #aeb5ff;
 }
 
-.popup__item>a {
+.popup__link {
     text-decoration: none;
     cursor: pointer;
 }
 
-.popup__item>a:hover {
+.popup__link:hover {
     text-decoration: none;
     cursor: pointer;    
 }
