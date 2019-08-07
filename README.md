@@ -2,4 +2,4 @@
 
 [web-site](https://barasii.github.io/HTML-CSS-POPUP/)
 
-:arrow_heading_up: [back](../README.md)
+:arrow_heading_up: [back](../../../kottans-frontend)
